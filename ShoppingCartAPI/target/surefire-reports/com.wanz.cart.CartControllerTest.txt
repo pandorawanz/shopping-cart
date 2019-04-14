@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.wanz.cart.CartControllerTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.292 s <<< FAILURE! - in com.wanz.cart.CartControllerTest
-initializationError(com.wanz.cart.CartControllerTest)  Time elapsed: 0.011 s  <<< ERROR!
-java.lang.NoClassDefFoundError: Lcom/wanz/cart/CartController;
-Caused by: java.lang.ClassNotFoundException: com.wanz.cart.CartController
-

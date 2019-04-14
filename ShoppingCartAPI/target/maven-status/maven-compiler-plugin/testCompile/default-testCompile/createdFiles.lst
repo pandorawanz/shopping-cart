@@ -1,1 +1,3 @@
 com\wanz\cart\CartItemControllerTest.class
+com\wanz\order\OrderControllerTest.class
+com\wanz\product\ProductControllerTest.class
