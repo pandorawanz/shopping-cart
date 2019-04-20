@@ -1,4 +1,4 @@
-FROM openjdk:8-jdk-alpine
+FROM openjdk:8u212-jdk-stretch
 EXPOSE 8080
 VOLUME /tmp
 ENV BASE_DIR /app
